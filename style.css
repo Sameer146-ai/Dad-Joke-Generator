@@ -5,8 +5,8 @@
 }
 
 body {
-    background-image: url(/emoji.jpg);
-    /* background: linear-gradient(to right, #fc354c, #0abfbc) ; */
+    /* background-image: url(/emoji.jpg); */
+    background: linear-gradient(to right, #fc354c, #0abfbc) ;
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
